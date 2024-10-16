@@ -19,6 +19,6 @@ class Discord(object):
                 data={
                     "content": dedent(message),
                     "username": "Rushymusy",
-                    "avatar_url": "https://static.wikia.nocookie.net/doors-game/images/2/2b/Rush_Moving.gif/revision/latest/scale-to-width-down/250?cb=20221002084139",
+                    "avatar_url": "https://static.wikia.nocookie.net/doors-game/images/4/4d/Rush1.png/revision/latest?cb=20240919061904",
                 },
             )
