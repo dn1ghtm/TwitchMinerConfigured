@@ -19,6 +19,6 @@ class Discord(object):
                 data={
                     "content": dedent(message),
                     "username": "Jeff the Miner",
-                    "avatar_url": "https://imgur.com/X9fEkhT",
+                    "avatar_url": "https://d2bzx2vuetkzse.cloudfront.net/unshoppable_producs/9d76c1cf-cda8-44f9-95a0-1e39c93e6809.jpeg",
                 },
             )
