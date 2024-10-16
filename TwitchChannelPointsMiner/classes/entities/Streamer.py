@@ -108,7 +108,7 @@ class Streamer(object):
         self.mutex = Lock()
 
     def __repr__(self):
-        return f"[{self.username} | {_millify(self.channel_points)}] @N1ghtm"
+        return f"[{self.username} | {_millify(self.channel_points)}] @795258371326083103"
 
     def __str__(self):
         return (
