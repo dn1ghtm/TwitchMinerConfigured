@@ -18,7 +18,7 @@ class Discord(object):
                 url=self.webhook_api,
                 data={
                     "content": dedent(message),
-                    "username": "Giggle the Jiggler",
-                    "avatar_url": "https://static.wikia.nocookie.net/doors-game/images/0/02/Facccehugger.png/revision/latest/scale-to-width-down/250?cb=20240830222510",
+                    "username": "Rushymusy",
+                    "avatar_url": "https://static.wikia.nocookie.net/doors-game/images/2/2b/Rush_Moving.gif/revision/latest/scale-to-width-down/250?cb=20221002084139",
                 },
             )
